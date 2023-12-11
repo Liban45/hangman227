@@ -7,9 +7,9 @@ word = random.choice(word_list)
 print(word)
 
 
-guess = input('Enter letter: ')
+user_guess = input('Enter letter: ')
 
-if len(guess) == 1 and guess.isalpha():
+if len(user_guess) == 1 and user_guess.isalpha():
     print('Good guess!')
 else:
     print('Opps! Thats not a valid input')
