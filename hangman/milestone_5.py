@@ -47,7 +47,7 @@ def play_game(word_list):
 
     while True:
         if game.num_lives == 0:
-            print('You lost!')
+            print(f'You lost! The word was: {game.word}')
             return game.word_guessed
         elif game.num_lives > 0 and game.num_letters > 0:
           game.ask_for_input()
