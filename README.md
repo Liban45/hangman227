@@ -68,9 +68,9 @@ hangman227/</br>
 |-- hangman</br>
 &nbsp;  |-- hangman_Template.py</br>
 &nbsp; |-- milestone_2.py</br>
-  |-- milestone_3.py</br>
-  |-- milestone_4.py</br>
-  |-- milestone_5.py</br>
+&nbsp; |-- milestone_3.py</br>
+&nbsp;  |-- milestone_4.py</br>
+&nbsp;  |-- milestone_5.py</br>
 |-- README.md</br>
 |-- .gitignore
 
