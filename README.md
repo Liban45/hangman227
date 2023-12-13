@@ -66,7 +66,7 @@ In summary, the project not only resulted in a functional Hangman game but also 
 ## File Structure
 hangman227/</br>
 |-- hangman</br>
-nbsp  |-- hangman_Template.py</br>
+nbsp    |-- hangman_Template.py</br>
   |-- milestone_2.py</br>
   |-- milestone_3.py</br>
   |-- milestone_4.py</br>
