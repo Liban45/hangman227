@@ -10,8 +10,7 @@
 - [File Structure](#file-structure)
 
 ## Description
-Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
-This project aims to create a simple command-line  version of the hangman game implemented in Python. The game randomly selects a word from a predefined list, and the player tries to guess the word by suggesting letters. The player has a limited number of lives, and each incorrect guess results in the loss of a life. The game ends when the player correctly guesses the word or runs out of lives.
+In the traditional game of hangman, one player thinks up a word, and the other player has a set number of attempts to guess it. The goal of this project is to develop a basic Python command-line version of the hangman game. When the game randomly chooses a word from a predetermined list the player attempts to guess the word by guessing a single letter at a time. There is a cap on the player's number of attempts, and each wrong guess costs one attempt. When the player answers the word correctly or runs out of attempts, the game is over.
 
 ### Aim of the Project
 This project aims to provide a basic implementation of the classic Hangman game. It is a beginner-friendly project to practice Python programming and learn basic game mechanics.
@@ -21,7 +20,7 @@ This project aims to provide a basic implementation of the classic Hangman game.
 ### Stages of Development
 The development of the Hangman Game involved several key stages:
 
-1. **Function Definitions:** Started by defining functions for core game functionalities, such as selecting a random word, checking a guessed letter, and asking for input.
+1. **Function Definitions:** Started by defining functions for core game functionalities, such as selecting a random word, checking the letter guessed, and asking for input.
 
 2. **Object-Oriented Programming (OOP):** Transitioned to an object-oriented approach by encapsulating the game logic into a `Hangman` class. This allowed for better organization of code, improved readability, and easier maintenance.
 
@@ -30,7 +29,7 @@ The development of the Hangman Game involved several key stages:
 ### Object-Oriented Programming
 The project demonstrated the advantages of using object-oriented programming:
 
-- **Encapsulation:** The `Hangman` class encapsulates the game's state and behavior, promoting a cleaner separation of concerns.
+- **Encapsulation:** The `Hangman` class encapsulates the game's state and behaviour, promoting a cleaner separation of concerns.
   
 - **Inheritance:** While not explicitly showcased in this small project, OOP principles allow for easy extension of functionality in future iterations or variations of the game.
 
