@@ -64,14 +64,14 @@ In summary, the project not only resulted in a functional Hangman game but also 
 
 
 ## File Structure
-hangman227/
-|-- hangman
-  |-- hangman_Template.py
-  |-- milestone_2.py
-  |-- milestone_3.py
-  |-- milestone_4.py
-  |-- milestone_5.py
-|-- README.md
+hangman227/</br>
+|-- hangman</br>
+  |-- hangman_Template.py</br>
+  |-- milestone_2.py</br>
+  |-- milestone_3.py</br>
+  |-- milestone_4.py</br>
+  |-- milestone_5.py</br>
+|-- README.md</br>
 |-- .gitignore
 
 
