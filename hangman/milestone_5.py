@@ -93,7 +93,7 @@ play_game(['banana', 'apple', 'orange', 'grapes', 'dates',
           'whizzing', 'whomever', 'wimpy', 'witchcraft', 'wizard', 'woozy',
           'wristwatch', 'wyvern', 'xylophone', 'yachtsman', 'yippee', 'yoked',
           'youthful', 'yummy', 'zephyr', 'zigzag', 'zigzagging', 'zilch',
-          'zipper', 'zodiac', 'zombie'])])
+          'zipper', 'zodiac', 'zombie'])
 
 
 
