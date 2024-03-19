@@ -10,10 +10,10 @@
 - [File Structure](#file-structure)
 
 ## Description
-In the traditional game of hangman, one player thinks up a word, and the other player has a set number of attempts to guess it. The goal of this project is to develop a basic Python command-line version of the hangman game. When the game randomly chooses a word from a predetermined list the player attempts to guess the word by guessing a single letter at a time. There is a cap on the player's number of attempts, and each wrong guess costs one attempt. When the player answers the word correctly or runs out of attempts, the game is over.
+In the traditional game of hangman, one player thinks up a word, and the other player has a set number of attempts to guess it. The goal of this project is to develop a basic Python command-line version of the hangman game. When the game randomly chooses a word from a predetermined list, the player attempts to guess the word by guessing a single letter at a time. There is a cap on the player's number of attempts, and each wrong guess costs one attempt. When the player answers the word correctly or runs out of attempts, the game is over.
 
 ### Aim of the Project
-This project aims to provide a basic implementation of the classic Hangman game. It is a beginner-friendly project to practice Python programming and learn basic game mechanics.
+This project aims to provide a basic implementation of the classic Hangman game. The main aim of the project is to practice Python programming and learn basic game mechanics.
 
 ## What I Learned
 
@@ -22,7 +22,7 @@ The development of the Hangman Game involved several key stages:
 
 1. **Function Definitions:** Started by defining functions for core game functionalities, such as selecting a random word, checking the letter guessed, and asking for input.
 
-2. **Object-Oriented Programming (OOP):** Transitioned to an object-oriented approach by encapsulating the game logic into a `Hangman` class. This allowed for better organization of code, improved readability, and easier maintenance.
+2. **Object-Oriented Programming (OOP):** Transitioned to an object-oriented approach by encapsulating the game logic into a `Hangman` class. This allowed for better code organization, improved readability, and allowed for easier maintenance.
 
 3. **Abstraction:** Leveraged abstraction to hide complex implementation details and provide a simplified interface for interacting with the game. This made the code more accessible, especially for those who may not be familiar with the internal workings of the game.
 
